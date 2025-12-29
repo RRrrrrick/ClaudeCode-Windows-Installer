@@ -17,6 +17,12 @@
 - Windows 10 / 11
 - 网络连接
 
+## 🔗 推荐 API 服务
+
+国内用户无法直接访问 Anthropic 官方 API，推荐使用第三方 API 服务：
+
+👉 **[FoxCode API](https://foxcode.rjj.cc/auth/register?aff=7ZEYE)** - 稳定、快速的 Claude API 代理服务
+
 ## 🚀 快速开始
 
 ### 方法一：一键安装
