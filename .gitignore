@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.corrupted.*
+
+# Logs
+*.log
+
+# Test files
+test/
